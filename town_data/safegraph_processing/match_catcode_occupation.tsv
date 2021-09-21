@@ -1,0 +1,41 @@
+type	occupation			
+A			code	census category
+B			A	Management, business, science, and arts occupations
+C			B	Service occupations
+D			C	Sales and office occupations
+E	A		D	Natural resources, construction, and maintenance occupations
+F	A		E	Production, transportation, and material moving occupations
+G	C			
+H	A			
+J	C			
+K	B			
+L	B			
+M	D			
+N	B			
+P	C			
+Q	B			
+R	C			
+S	B			
+T	B			
+U	C			
+V	A			
+W	A			
+X	A			
+Y	B			
+AA	B			
+BB	A			
+CC	A			
+DD	A			
+EE	B			
+FF	B			
+GG	E			
+HH	B			
+LL	B			
+MF	E			
+WT	C			
+ST	C			
+NN	B			
+UN	A			
+AS	B			
+ER	A			
+SR	B			

@@ -1,0 +1,50 @@
+location_name	top_category	latitude	longitude	postal_code
+Old Firehouse School	Child Day Care Services	37.890704	-122.118315	94549
+Tenth Avenue Park	Museums, Historical Sites, and Similar Institutions	42.255103	-89.085241	61104
+Hunter Village Wines & Liquors	Beer, Wine, and Liquor Stores	42.214633	-74.220827	12442
+Fat Moe's	Restaurants and Other Eating Places	40.948824	-74.154553	7506
+Jungle Rapids Family Fun Park	Amusement Parks and Arcades	34.207249	-77.86301	28403
+Boost Mobile	Wired and Wireless Telecommunications Carriers	42.733099	-73.688353	12180
+Europa Restaurant	Restaurants and Other Eating Places	43.095338	-75.215458	13501
+Bethlehem Temple Church	Religious Organizations	42.717381	-73.694202	12180
+Bakery Drivers Local 264	Bakeries and Tortilla Manufacturing	42.872061	-78.752951	14227
+Fastenal	Building Material and Supplies Dealers	32.865232	-96.888596	75220
+Holiday Inn Express	Traveler Accommodation	41.647719	-86.000766	46517
+Advance Financial	Nondepository Credit Intermediation	35.997774	-83.924898	37917
+Sheila Page Long & Foster	Offices of Real Estate Agents and Brokers	37.147384	-79.663783	24121
+Carmens Vineyard Flower Shop	Florists	36.069266	-119.017224	93257
+Kadilak Fitness	Other Amusement and Recreation Industries	40.957448	-81.529896	44319
+Marya Woodruff Ochs MHS PA C	Offices of Physicians	42.324645	-71.253885	2481
+NSC Motorsports	Automobile Dealers	41.743412	-88.34178	60506
+Bose	Electronics and Appliance Stores	42.03886	-71.35228	2093
+Twin Pool And Spa	Miscellaneous Durable Goods Merchant Wholesalers	39.076479	-77.206181	20850
+Brandywine Veterinary Services	Other Professional, Scientific, and Technical Services	40.085887	-75.798486	19343
+Salem Church Middle	Elementary and Secondary Schools	37.383719	-77.486846	23237
+Krome	Personal Care Services	36.362285	-84.140983	37766
+Corso Coffee	Restaurants and Other Eating Places	41.015519	-71.991839	11954
+Directsat Usa		40.905339	-73.834264	10550
+Lebron Restaurant Equipment	Grocery Stores	28.303437	-81.446769	34741
+H&R Block	Accounting, Tax Preparation, Bookkeeping, and Payroll Services	43.091521	-75.222715	13501
+Illusions Hair Salon		42.696419	-73.768928	12205
+Hunter's Point Wines & Spirits	Beer, Wine, and Liquor Stores	40.745199	-73.952987	11101
+Bill Gray's	Restaurants and Other Eating Places	43.133103	-77.491124	14625
+Sir Speedy	Printing and Related Support Activities	40.541091	-74.52303	8873
+Westcop Childrens Center For Learning	Child Day Care Services	40.917344	-73.790089	10801
+Carmen Capodanno MD	Offices of Physicians	33.739528	-118.307553	90732
+Wung Thai Restaurant And Sushi	Restaurants and Other Eating Places	27.916708	-82.70977	33760
+Daley's Service Center	Automotive Repair and Maintenance	40.082024	-74.938453	19020
+Gold Mine	Jewelry, Luggage, and Leather Goods Stores	36.216998	-86.592333	37076
+Newark Nj Airport Parking	Other Personal Services	40.673263	-74.191289	7201
+Metro Pizza & Pasta	Restaurants and Other Eating Places	40.914565	-73.784396	10801
+CrossFit	Other Amusement and Recreation Industries	29.555625	-98.567837	78230
+White Lace Bridal Boutique	Clothing Stores	31.827127	-106.527389	79912
+Armory Chrysler Dodge Jeep Ram FIAT of Albany Opens in New Window	Automobile Dealers	42.681537	-73.793439	12205
+Artcraft Silversmiths	Jewelry, Luggage, and Leather Goods Stores	40.912932	-73.849929	10550
+The Auburn	Restaurants and Other Eating Places	43.085787	-75.26049	13501
+Jean's Cafe	Restaurants and Other Eating Places	33.461063	-88.802204	39759
+Larkin Sunset Lawn	Death Care Services	40.741326	-111.823523	84108
+Miller and Narahara	Health and Personal Care Stores	36.296864	-119.137711	93221
+Superior Auto Repair		43.012399	-82.927741	48014
+South Dakota Women's Prison	Justice, Public Order, and Safety Activities	44.357965	-100.3082	57501
+Rome Podiatry Group	Offices of Physicians	43.218169	-75.459372	13440
+Rome Access Site	Child Day Care Services	43.213888	-75.459573	13440

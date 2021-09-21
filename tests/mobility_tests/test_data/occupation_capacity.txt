@@ -1,0 +1,6 @@
+Type	occupation	capacity
+A  management_business_science_art 10 1000 
+B  service 5 50
+C  sales_office store 5 50
+D  construction_maintenance 1 20
+E  production_transportation store/pharmacy 10 300 

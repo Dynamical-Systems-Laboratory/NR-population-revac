@@ -1,0 +1,886 @@
+key	count	category		
+Auto	30558	SR		
+Sales	23156	ST		
+&	22232			
+Nails	8672	SR		
+Motors	7732	SR	ST	
+Salon	7039	SR		
+Spa	6552	SR		
+The	6087			
+Center	5545			
+Hair	4668	SR		
+Shop	4281	ST		
+Nail	4172	SR		
+Inc	3877			
+And	3832			
+Of	3533			
+Cleaners	3212	SR		
+Park	2896	AS		
+Motor	2653	SR	ST	
+A	2474			
+Car	2401	SR	ST	
+Cars	2355	SR	ST	
+Market	2317	ST		
+Sushi	2305	K		
+House	2252			
+Beauty	2216	SR		
+Dental	2147	CC		
+La	2058			
+Bar	1974	K		
+Bakery	1930	K		
+Group	1870			
+City	1854			
+Store	1851	ST		
+Studio	1835			
+Thai	1699	K		
+Barber	1686	SR		
+Care	1682			
+Insurance	1651	R		
+Company	1580			
+Kitchen	1566	K		
+China	1496			
+J	1493			
+Family	1476			
+Express	1419			
+El	1397			
+New	1359			
+Food	1318	K	ST	
+Authorized	1316			
+Cuisine	1312	K		
+Chinese	1307	K		
+of	1302			
+Supply	1272			
+Liquor	1267	K		
+Star	1243			
+Boutique	1224	ST		
+Dealer	1210	ST		
+Repair	1206	SR		
+Truck	1196	SR	ST	
+Golf	1154			
+Automotive	1125	SR	ST	
+Services	1123	SR		
+By	1123			
+Donuts	1114	K		
+Metropcs	1100			
+Jewelry	1086	ST		
+C	1083			
+Service	1083	SR		
+Jewelers	1076	ST		
+World	1074			
+N	1065			
+Co	1063			
+Mart	1063	ST	G	WT
+D	1017			
+Lounge	997			
+B	996			
+Best	975			
+Pho	970	K		
+M	967			
+ST	956	K		
+Massage	955	SR		
+S	953			
+R	930			
+West	918			
+Design	906			
+Bistro	905	K		
+Credit	902			
+Sports	880	ST	EE	
+Coffee	869	K		
+Pizzeria	862	K		
+T	850			
+L	850			
+Medical	848	CC		
+K	846			
+Pet	832	ST	SR	
+Clinic	830	CC		
+Theatre	827	ER		
+Street	812			
+Arts	808	ER	M	
+Plus	803			
+Valley	799			
+Smoke	788			
+Fitness	788	N		
+and	785			
+Winery	772	ST		
+At	759			
+Health	758	CC		
+For	756			
+Garden	755			
+All	746			
+Japanese	736	K		
+Outlet	731	ST		
+Wok	730			
+On	728			
+Day	728			
+American	727			
+Furniture	726	ST		
+Club	710			
+Plaza	702			
+Mall	700	ST		
+Shoe	693	ST		
+Place	693			
+One	689			
+Dry	689			
+2	685			
+Mexican	676	K		
+Autos	675	SR	ST	
+Village	667			
+Fine	667			
+Animal	664			
+Llc	662			
+1	658			
+Chiropractic	654	SR		
+Golden	653			
+South	651			
+Hospital	646	H		
+Liquors	645	ST		
+Gallery	638	ER		
+Fashion	634	ST		
+Taqueria	628	K		
+Bbq	618	K		
+King	618			
+Asian	609	K		
+Dance	607	ER		
+Art	604	ER		
+Imports	602	ST		
+Home	600			
+Buffet	593	K		
+Las	593			
+Vapor	590	ST		
+E	588			
+Discount	587			
+Yoga	586	N		
+North	585			
+Body	584	SR		
+Wireless	583			
+Laundry	582	SR		
+Top	580			
+De	576			
+Tattoo	571	SR		
+Beach	571			
+San	567			
+Pharmacy	563	J		
+Country	556			
+Super	552			
+In	551			
+H	547			
+Chicken	545	K		
+School	544	F		
+Union	543			
+Pub	543	K		
+Los	539			
+Dentistry	538	CC		
+East	536			
+Royal	535			
+To	534			
+Wholesale	534	WT		
+Tea	533	K	ST	
+Pro	531			
+Little	519			
+Flowers	519	SR		
+Quality	518			
+Donut	518	K		
+Foot	515	SR		
+Blue	514			
+Music	512	ER		
+Big	511			
+Palace	508			
+International	506			
+More	505			
+Taco	499	K		
+Go	499			
+Fish	494			
+Florist	493	SR		
+G	491			
+Stop	489			
+Happy	487			
+Exchange	486			
+Town	483			
+Vineyards	481	ST		
+Academy	478			
+Bay	472			
+4	469			
+Custom	469			
+Indian	463	K		
+Ford	463			
+Red	455			
+Central	453			
+First	453			
+Choice	453			
+My	453			
+Tan	452	SR		
+Mr	451			
+Italian	450	K		
+Cuts	448			
+Seafood	447	K		
+Elite	446			
+Miami	445			
+Threading	444			
+Texas	442			
+Eye	438			
+Tanning	436	SR		
+Classic	435			
+Martial	433			
+Yogurt	429	K	ST	
+St	426			
+Trucks	424			
+Mattress	423	ST		
+Diamond	422	ST		
+Optical	421	CC		
+Hot	419			
+Tax	417	R		
+Lake	415			
+Tobacco	414	ST		
+Tacos	414	K		
+Vision	410			
+Gold	410			
+Agency	407			
+Inn	402			
+Hall	401			
+Vegas	396			
+Luxury	394			
+Grooming	393			
+Green	393			
+Therapy	393	SR		
+Room	391			
+Dog	391	ST		
+I	389			
+V	387			
+Time	387			
+Gifts	385	ST		
+Factory	385			
+Gourmet	385	G	ST	
+Theater	383	ER		
+Great	382			
+Motorsports	382			
+Wines	381	ST		
+Dds	380			
+Wellness	379			
+Dr	379			
+U	378			
+Depot	378			
+Finance	378			
+Barbershop	375	L		
+Shoes	374	ST		
+Motorcars	374	SR	ST	
+P	374			
+Bella	369			
+Kids	369			
+Tavern	368			
+California	366			
+Alterations	366			
+Ice	365			
+County	364			
+Creek	364			
+Jumpers	361			
+Skin	361	SR		
+Brothers	359			
+State	353			
+Hills	352			
+Usa	350			
+Hill	349			
+Q	348			
+Style	347	ST		
+Vape	344	ST		
+Lucky	343			
+Coast	341			
+Fresh	341			
+Z	340			
+Spirits	339	ST		
+Corporation	338			
+Magic	337			
+River	337			
+Bridal	337			
+Good	335			
+Rose	331			
+Water	331			
+Coin	330			
+Sun	330			
+Ii	329			
+Nutrition	325			
+India	323	K		
+Diner	322	K		
+Cash	322			
+Zone	319			
+W	318			
+Corner	314			
+Office	313			
+Hong	312			
+Foods	311	K		
+Us	311			
+Meat	311	K		
+Island	311			
+Taste	310	K		
+Connection	309			
+Bagel	308	K		
+Rock	306			
+Avenue	305			
+3	303			
+Le	300			
+Physical	300			
+Dragon	299			
+Mi	299			
+Premier	299			
+Supplies	298			
+Noodle	294	K		
+Grand	293			
+Paradise	290			
+Square	289			
+Cream	289	K		
+Tailor	289			
+Way	286			
+Designs	286			
+It	283			
+Retailer	282			
+Grocery	281	G		
+Kong	280			
+Comics	278			
+Buy	277			
+Lee	275			
+Hollywood	275			
+Image	272			
+Cut	271			
+Florida	270			
+Casa	269			
+Bagels	268	K		
+Clothing	267	ST		
+Associates	265			
+Perfect	264			
+Teriyaki	264	K		
+Frozen	263	K		
+Fast	261	K		
+Natural	261			
+Main	260			
+Equipment	259			
+Mobile	258			
+Estate	257	R		
+Unique	257			
+Sweet	257	K		
+Y	256			
+Supermarket	256	G		
+Dollar	255			
+Centers	255			
+Cafe	255	K		
+Don	253			
+Pawn	253			
+Modern	253			
+United	252			
+Touch	252			
+Optometry	252	CC		
+Santa	251			
+Ranch	251			
+Mini	250			
+Saigon	248			
+Mountain	248			
+LLC	248			
+John	247			
+Empire	246			
+Life	246			
+Community	246			
+Solutions	245			
+Flower	244	SR		
+Thrift	244	ST		
+Del	244			
+Southern	243			
+Steak	242	K		
+Korean	242	K		
+at	242			
+Unlimited	242			
+Ristorante	240			
+Station	239			
+Juice	239	K		
+Houston	239			
+Travel	238			
+Up	236			
+Box	236			
+Cigar	235	ST		
+Silver	235			
+Affordable	234			
+Spot	234			
+University	234	F		
+Old	234			
+Hunan	234	K		
+Drive	232			
+Shoppe	232			
+Line	230			
+Select	230			
+York	230			
+National	230			
+Bookkeeping	230			
+High	229			
+Wheels	229			
+White	228			
+Premium	228			
+Phone	228			
+Sport	225	ST		
+Oriental	225			
+RV	225	SR		
+No	224			
+Real	224			
+Mail	224	P		
+America	223			
+Books	223	ST		
+Less	222			
+Ramen	221	K		
+Rv	220	SR		
+Computer	220			
+Enterprises	220			
+Urgent	217			
+Acupuncture	217			
+Max	216			
+Road	215			
+Love	214			
+Leasing	213	R		
+Austin	212			
+Realty	212			
+Urban	211			
+Chicago	211			
+Laundromat	211			
+Party	211			
+Floral	211	SR		
+Do	211			
+Point	210			
+O	210			
+Elegant	209			
+Works	209			
+Video	209			
+Bowl	208	K		
+Direct	207			
+Warehouse	206	GG		
+Studios	206			
+Metro	206			
+Performance	206	ER		
+the	206			
+Deals	206			
+Palm	205			
+Steakhouse	204	K		
+Smart	203			
+Wild	203			
+Land	201			
+Lane	201			
+Angel	201			
+Queen	200			
+Crown	199			
+Glass	198			
+Downtown	198			
+Financial	198			
+Broadway	196			
+Federal	196			
+Pacific	195			
+Games	194			
+Vintage	194			
+Ride	194			
+Grille	194			
+Farm	192			
+Training	191			
+Sunset	191			
+Atlanta	190			
+Consignment	190			
+Oak	190			
+Fusion	190	K		
+USA	189			
+Sons	189			
+Orange	189			
+Sale	189			
+Convention	187			
+Framing	187			
+Salons	186	L		
+Driving	186			
+Total	186			
+BMW	186	ST		
+Chef	185			
+Karate	185			
+Moon	184			
+Tropical	183			
+Four	183			
+Pilates	183			
+Marine	182			
+Ultimate	182			
+Sunshine	182			
+Roll	182			
+Barbers	182	L		
+Antiques	181			
+Kabob	181	K		
+Fabrics	181			
+Performing	181	ER		
+F	180			
+Prestige	180			
+Tailors	179			
+Wear	179			
+Veterinary	179	SR		
+Frame	178			
+Dallas	178			
+Tree	178			
+Spring	178			
+Fashions	177	ST		
+Your	177			
+Advanced	177			
+Sandwich	176	K		
+Just	176			
+Western	175			
+Learning	175			
+Vip	175			
+Photo	174			
+Class	174			
+Me	174			
+Hotel	174			
+Imperial	174			
+Liberty	173			
+You	173			
+Cell	173			
+Eagle	172			
+Beyond	172			
+Parts	171			
+Global	171			
+Resort	171			
+Long	171			
+Superior	171			
+Printing	171	ST		
+Ace	171			
+Oasis	171			
+Wash	170	SR		
+Laser	170			
+College	170			
+Childrens	170			
+Hawaiian	169			
+Beer	169	K		
+Sky	169			
+Power	168			
+5	168			
+Pure	168			
+Quick	168			
+Cigars	167	ST		
+Sonoma	166			
+Smile	165			
+Pool	165			
+Ave	165			
+Rice	165	K		
+99	165			
+Wings	164	K		
+French	164	K		
+Greek	164	K		
+Five	164			
+Out	164			
+Villa	163			
+Spice	162	K		
+Resale	162			
+Institute	162			
+Preowned	162			
+Curry	162	K		
+Crystal	162			
+Kings	161			
+Clean	160			
+Md	160			
+Action	160			
+Rainbow	160			
+Hookah	160			
+Vineyard	159			
+Ocean	159			
+Cellars	159			
+Etc	159			
+Orlando	159			
+Grove	158			
+Creative	158			
+Famous	158			
+Tech	158			
+Lovely	157			
+Bike	157			
+Mediterranean	157	K		
+Source	156			
+Cleaning	156			
+Budget	156	SR		
+Range	156			
+Fabric	155			
+Watch	155			
+Hearing	154			
+Tofu	153	K		
+Fort	153			
+Michael	153			
+Sea	153			
+Eatery	153	K		
+Saloon	153	L		
+Kims	152			
+Boca	152			
+European	152			
+View	151			
+Springs	151			
+Color	151			
+Unisex	150			
+Brokers	150	R		
+7	150			
+Catering	150	K	G	
+1st	150			
+Panda	149	K		
+Deal	149			
+Apple	148			
+Couture	148			
+Two	147			
+Import	147			
+Hardware	147	ST		
+CarHop	147			
+Collection	147			
+Napa	146			
+Value	146			
+Desert	145	K		
+Tailoring	145			
+Feet	145			
+Billiards	145			
+Pot	145			
+Aloha	144			
+Century	144			
+Vacuum	144			
+Cricket	144			
+Eyebrow	144	SR		
+Lot	144			
+Orthodontics	143			
+Mesa	143			
+Bath	142			
+Pollo	142			
+Soccer	142			
+Mission	142			
+Fancy	142			
+Mid	141			
+Paris	141			
+Smith	141			
+Tire	141			
+Smiles	141			
+Memorial	141			
+Gift	140			
+Mariscos	140			
+Mens	140			
+Gardens	140			
+David	140			
+Pink	140			
+Dogs	140			
+Pearl	139			
+Planet	139			
+Pets	139			
+Bros	139			
+Williams	139			
+African	138			
+Paul	138			
+Signature	138			
+Easy	138			
+Electronics	138			
+Jade	138			
+Hi	138			
+Expo	138			
+Rancho	137			
+Swim	137	N		
+Stone	137			
+Autoplex	137			
+Vietnamese	137	K		
+Dream	136			
+Black	136			
+Oaks	136			
+Appliance	136			
+Loan	135			
+Cleaner	135	SR		
+Fiesta	135			
+Riverside	135			
+Sunny	134			
+Atlantic	134			
+Medicine	134	J		
+Seasons	134			
+Now	134			
+Boba	134	K		
+Mark	134			
+Platinum	134			
+Lees	133			
+Lincoln	133			
+Tokyo	133			
+US	133			
+James	133			
+Audio	133			
+Brown	133			
+Wall	133			
+Cakes	132	K		
+Professional	132			
+Cake	132	K		
+Emporium	132			
+Prime	131			
+Shack	131	K		
+Kim	131			
+Roberto's	131			
+Corp	131			
+Robert	131			
+Certified	130			
+Od	130			
+Rosa	130			
+Stores	130	ST		
+Postal	129	P		
+Capital	129			
+Asia	129	K		
+End	128			
+Master	128			
+Verizon	128	ST		
+TRUE	128			
+Sewing	128			
+Tri	128			
+Bamboo	128			
+Price	127			
+Farmers	127			
+Trattoria	127	SR		
+Harbor	126			
+Mexico	126	K		
+Chic	126			
+Eyecare	125	CC		
+Toys	125	ST		
+Route	125			
+Com	125			
+Simply	124			
+Mercury	124			
+Castle	124			
+Ridge	124			
+Bob	124			
+Adventure	124			
+Van	124			
+Lotus	123			
+Irish	123	K		
+Boston	123			
+Hut	123			
+Bazaar	122			
+Team	122			
+Firm	122			
+Tampa	122			
+Sams	122			
+Hibachi	122	K		
+Gym	121	N		
+Network	121			
+Delicatessen	121	G		
+Fun	121			
+Carpet	121			
+Burrito	121	K		
+Mike	121			
+Sandwiches	121	K		
+Fit	120			
+Book	120			
+Forest	120			
+Organic	120			
+Paws	120			
+Living	120			
+Alpha	120			
+Garage	120			
+Table	120			
+Tennis	119	N		
+Diego	119			
+2000	119			
+Koa	119			
+Sol	119			
+About	119			
+Uniforms	119			
+Wax	118			
+Brazilian	118			
+Universal	118			
+Champion	118			
+Highland	118			
+Al	118			
+Suites	118			
+Sunrise	117			
+Victory	117			
+Olive	117			
+Trading	117			
+Circle	117			
+Davis	117			
+Joe	116			
+Phoenix	116			
+Shabu	116			
+Mill	115			
+Braiding	115			
+Paint	115			
+Wing	115	K		
+Cellular	115			
+Pc	115			
+Joes	115			
+Tasty	115			
+II	115			
+Thomas	114			
+Bird	114			
+Leather	114			
+Rentals	114	SR		
+Cantina	113			
+Amazing	113			
+Title	113			
+Motorcycles	113	SR	ST	
+Glamour	112			
+Beverly	112			
+Baby	112			
+Accessories	112			
+Bread	112	K	G	
+An	112			
+Loans	112			
+Lux	111			
+Seattle	111			
+Edge	111			
+Door	111			
+Used	111			
+Belle	111			
+Js	111			
+Advantage	111			
+Guys	111			
+Bill	111			
+Specialty	110			
+Payless	110			
+Cherry	110			
+Abc	110			
+Tap	110			
+Produce	110			
+Yummy	109	K		
+Miller	109			
+Fred	109			
+Diva	109			
+Post	108			
+Rite	108			
+Styling	108			
+Regal	108			
+Centre	108			
+Pastry	108			
+Ink	107			
+Jim	107			
+Computers	107			
+Young	107			
+Lab	106			
+Med	106			
+Check	106			
+Goods	106	G		
+Serenity	106			
+Luggage	105			
+Boost	105			
+Pretty	105			
+Halal	105	K		
+Area	104			
+Uniform	104			
+Sweets	104			
+Delight	104			
+Ny	104			
+Weight	104			
+Masters	103			
+Second	103			
+Roberts	103			
+Today	103			
+Deluxe	103			
+Pan	103			
+Pontiac	103			
+Shops	102	ST		
+Styles	102			
+Jack	102			
+Caribbean	102			
+Recreation	102			
+Waxing	102			
+Ctr	101			
+Chi	101			
+Arizona	101			
+Healthy	101			
+Sub	101			
+Fu	101			
+Public	101			
+Ez	101			
+Caffe	101			
+Southwest	101			
+Dominican	100			
+District	100			
+Sugar	100			
+Xpress	100			
+General	100			
+Superstore	100			
+Cat	100			

@@ -1,0 +1,5 @@
+Management,business,science,and-arts-occupations	18403	47.8 A
+Service-occupations	6383	16.6 B
+Sales-and-office-occupations	7429	19.3 C
+Natural-resources,construction,and-maintenance-occupations	2387	6.2 D
+Production,transportation,and-material-moving-occupations	3865	10.0 E

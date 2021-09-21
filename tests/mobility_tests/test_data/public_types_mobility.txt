@@ -1,0 +1,41 @@
+A single family residence	1	10
+B multi-level residence	1	10
+C residence & business practice	1	10
+D townhouse	1	10
+E library	10	50
+F school	50	300
+G grocery store	5	30
+H hospital	1800	2200
+J drug store/pharmacy	5	10
+K restaurant	2	20
+L salon/barber shop	1	5
+M miscellaneous store/business	1	10
+N gym	5	10
+P postal office	3	10
+Q parks/ public landmarks	1	5
+R bank	5	10
+S coffee shop	1	5
+T commnity center	5	10
+U gas station	2	5
+V religious institution	5	10
+W library	10	30
+X government building: police station, fire station, etc.	10	20
+Y golf club	5	15
+Z museum	5	10
+AA retirement/nursing home	20	50
+BB clinic/ urgent care office	5	15
+CC doctor's office	2	5
+DD veterinarian	2	5
+EE event space	1	5
+FF daycare/ child services	2	30
+GG Warehouse/storage facility	1	10
+HH transit center	5	10
+LL parks, gardens, etc.	1	10
+MF manufacturing and related categories	20	50
+WT wholesale trade locations	5	20
+ST stores	1	10
+NN social assistance, nursing/rehabs and related locations	5	20
+UN university and related operations	50	300
+AS Accommodation and related services	5	10
+ER entertainment and recreation operations	10	20
+SR services	1	10

@@ -1,0 +1,50 @@
+location_name	top_category	latitude	longitude	postal_code
+AnimaLodge	Other Personal Services	45.68404	-108.700094	59044
+Anderson Valley Market & Deli	Grocery Stores	39.008216	-123.365964	95415
+Firepower Fireworks	Miscellaneous Durable Goods Merchant Wholesalers	33.864224	-78.646189	29566
+Captain D's Seafood Restaurant	Restaurants and Other Eating Places	36.867487	-76.284289	23517
+Opti Works	Health and Personal Care Stores	28.552366	-81.544858	34761
+Panera Bread	Restaurants and Other Eating Places	39.220413	-84.517358	45231
+Aztec Willie's Taqueria	Restaurants and Other Eating Places	45.535289	-122.650292	97232
+Susan Slenk ERA Young Realty & Investment	Offices of Real Estate Agents and Brokers	34.235363	-111.323482	85541
+Dressbarn	Clothing Stores	39.157815	-76.724689	21076
+JTX Fitness	Other Amusement and Recreation Industries	31.366712	-96.140723	75846
+The Aztec	Restaurants and Other Eating Places	42.280244	-71.399784	1702
+Little Caesars	Restaurants and Other Eating Places	38.816659	-77.643322	20169
+Won Kok Restaurant	Restaurants and Other Eating Places	37.73182	-122.451303	94127
+Geiber Park	Museums, Historical Sites, and Similar Institutions	41.932874	-85.62932	49093
+Quick C Store	Grocery Stores	30.175903	-97.823074	78748
+Bogey's Bar & Grill	Drinking Places (Alcoholic Beverages)	43.012707	-82.470574	48059
+Allstate Insurance	Agencies, Brokerages, and Other Insurance Related Activities	40.953432	-73.84435	10710
+Starbucks	Restaurants and Other Eating Places	41.647161	-72.677475	6067
+My Neighborhood Barbershop	Personal Care Services	30.084929	-81.714056	32003
+Bensman's Garage	Automotive Repair and Maintenance	40.234995	-84.408644	45363
+Chicken Express	Restaurants and Other Eating Places	29.56284	-97.943027	78155
+Korean Association Of The United Methodist Church Inc	Religious Organizations	40.923408	-74.086853	7652
+Dunkin'	Restaurants and Other Eating Places	25.879144	-80.196369	33161
+Thirdwave Esthetics	Personal Care Services	30.233741	-97.79228	78704
+Nicole James Salon	Personal Care Services	41.31663	-81.353302	44202
+Retirement Planning Associates	Agencies, Brokerages, and Other Insurance Related Activities	34.162025	-118.821999	91362
+Sonic	Restaurants and Other Eating Places	31.953827	-95.265601	75766
+Matsu Sushi		37.703892	-121.885193	94568
+Village Wine & Spirits	Beer, Wine, and Liquor Stores	34.651325	-93.056224	71909
+Marhaba Indian & Pakistani Halal Cuisine	Restaurants and Other Eating Places	37.785728	-122.41268	94102
+Family Health & Wellness Clinic	Offices of Physicians	36.032963	-95.863864	74133
+Little Caesars	Restaurants and Other Eating Places	41.361683	-93.559081	50125
+Bubbas Cheese Steaks	Restaurants and Other Eating Places	33.054094	-112.043993	85138
+Okeechobee Plaza	Lessors of Real Estate	26.666432	-80.720062	33493
+Jason Luksich M D	Offices of Physicians	36.982502	-121.997862	95062
+Stratton Mortgage	Activities Related to Credit Intermediation	38.588457	-75.298593	19966
+Lincoln Commercial Pool Equipment	Lawn and Garden Equipment and Supplies Stores	33.480371	-112.366384	85395
+Yoga Vida NoHo	Other Amusement and Recreation Industries	40.726912	-73.995078	10012
+Sunny & Fine's Breakfast Burritos	Restaurants and Other Eating Places	34.146441	-118.757018	91301
+United States Postal Service (USPS)	Postal Service	42.156409	-74.528428	12430
+Joe's Vape Shop	Other Amusement and Recreation Industries	36.08962	-96.010577	74107
+Shell Oil	Gasoline Stations	35.023536	-81.874907	29307
+Western Union	Activities Related to Credit Intermediation	33.825065	-78.68506	29582
+Neuse Appliance Parts	Hardware, and Plumbing and Heating Equipment and Supplies Merchant Wholesalers	35.257118	-77.616987	28504
+New Harbour Restaurant	Restaurants and Other Eating Places	47.67467	-117.410766	99207
+Spring Hill Church of Christ	Religious Organizations	31.967182	-86.284297	36046
+Premier Auto Plaza	Automotive Repair and Maintenance	39.079041	-94.401359	64055
+Desertwraps	Other Miscellaneous Manufacturing	33.743221	-116.359061	92260
+Neurology & Pain Management Center PLLC	Offices of Physicians	35.466462	-79.186816	27330

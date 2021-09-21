@@ -1,0 +1,10 @@
+,TRAVEL TIME TO WORK,Unnamed: 1
+0,Less than 10 minutes,0.084
+1,10 to 14 minutes,0.151
+2,15 to 19 minutes,0.134
+3,20 to 24 minutes,0.102
+4,25 to 29 minutes,0.052
+5,30 to 34 minutes,0.117
+6,35 to 44 minutes,0.038
+7,45 to 59 minutes,0.113
+8,60 or more minutes,0.208

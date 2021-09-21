@@ -1,0 +1,3 @@
+name	occupation	lat lon	#employees
+Workplace1	A	40.894161	-73.789744
+Workplace2	B	45.987822	-78.781636

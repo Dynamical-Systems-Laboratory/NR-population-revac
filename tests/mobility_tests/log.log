@@ -1,0 +1,108 @@
+46,50d45
+< 			elif key == 'occupation':
+< 				if dc[key] != value:
+< 					print('Occupation don\'t match: ')
+< 					print(dc['ID'], dc[key], value)
+< 					return False
+112c107
+< 			elif (key == 'type') or (key == 'name') or (key == 'in/out'):
+---
+> 			elif (key == 'type') or (key == 'name'):
+134c129
+< 
+---
+> 	
+140c135
+< 			for jl, entry in enumerate(temp):
+---
+> 			for jl, entry in enumerate(temp): 
+165,168c160,161
+< 				{'ID': 4, 'occupation': 'A', 'lat': 40.894161, 'lon': -73.789744, 'N_min': 10, 'N_max': 1000, 'N_emp': 0},
+< 				{'ID': 5, 'occupation': 'B', 'lat': 45.987822, 'lon': -78.781636, 'N_min': 5, 'N_max': 50, 'N_emp': 0},
+< 				{'ID': 6, 'type': 'outside', 'lat': 41.2423, 'lon': -73.7772, 'zip': 10901},
+< 				{'ID': 7, 'type': 'outside', 'lat': 40.908895, 'lon': -73.781193, 'zip': 10801}
+---
+> 				{'ID': 4, 'type': 'outside', 'lat': 41.2423, 'lon': -73.7772, 'zip': 10901},
+> 				{'ID': 5, 'type': 'outside', 'lat': 40.908895, 'lon': -73.781193, 'zip': 10801}
+174,176d166
+< foccupation = 'test_data/match_occupation.txt'
+< fsafegraph = 'test_data/safegraph_places.txt'
+< focc_cap = 'test_data/occupation_capacity.txt'
+178c168
+< outIDs = [6,7]
+---
+> outIDs = [4,5]
+180c170
+< workplaces = apb.Workplaces(inNR, outNR, fmap, foccupation, fsafegraph, focc_cap)
+---
+> workplaces = apb.Workplaces(inNR, outNR, fmap)
+190,193c180,183
+< exp_workplaces.append({'ID': 8, 'type': 'F', 'lat': 45.987825, 'lon': -78.781636, 'specialID': 1, 'N_min': 50, 'N_max': 300, 'N_emp': 0})
+< exp_workplaces.append({'ID': 9, 'type': 'F', 'lat': 45.987825, 'lon': -78.781636, 'specialID': 2, 'N_min': 50, 'N_max': 300, 'N_emp': 0})
+< exp_workplaces.append({'ID': 10, 'type': 'F', 'lat': 45.987825, 'lon': -78.781636, 'specialID': 3, 'N_min': 50, 'N_max': 300, 'N_emp': 0})
+< exp_workplaces.append({'ID': 11, 'type': 'F', 'lat': 40.905115, 'lon': -76.79072, 'specialID':  4, 'N_min': 2, 'N_max': 30, 'N_emp': 0})
+---
+> exp_workplaces.append({'ID': 6, 'type': 'F', 'lat': 45.987825, 'lon': -78.781636, 'specialID': 1, 'N_min': 50, 'N_max': 300, 'N_emp': 0})
+> exp_workplaces.append({'ID': 7, 'type': 'F', 'lat': 45.987825, 'lon': -78.781636, 'specialID': 2, 'N_min': 50, 'N_max': 300, 'N_emp': 0})
+> exp_workplaces.append({'ID': 8, 'type': 'F', 'lat': 45.987825, 'lon': -78.781636, 'specialID': 3, 'N_min': 50, 'N_max': 300, 'N_emp': 0})
+> exp_workplaces.append({'ID': 9, 'type': 'F', 'lat': 40.905115, 'lon': -76.79072, 'specialID':  4, 'N_min': 10, 'N_max': 30, 'N_emp': 0})
+198,200c188,190
+< exp_workplaces.append({'ID': 12, 'type': 'AA', 'lat': 40.909571, 'lon': -73.792891, 'specialID': 1, 'N_min': 20, 'N_max': 50, 'N_emp': 0})
+< exp_workplaces.append({'ID': 13, 'type': 'AA', 'lat': 40.929115	, 'lon': -73.788614, 'specialID': 2, 'N_min': 20, 'N_max': 50, 'N_emp': 0})
+< exp_workplaces.append({'ID': 14, 'type': 'AA', 'lat': 43.917963, 'lon': -73.788635, 'specialID': 3, 'N_min': 20, 'N_max': 50, 'N_emp': 0})
+---
+> exp_workplaces.append({'ID': 10, 'type': 'AA', 'lat': 40.909571, 'lon': -73.792891, 'specialID': 1, 'N_min': 20, 'N_max': 50, 'N_emp': 0})
+> exp_workplaces.append({'ID': 11, 'type': 'AA', 'lat': 40.929115	, 'lon': -73.788614, 'specialID': 2, 'N_min': 20, 'N_max': 50, 'N_emp': 0})
+> exp_workplaces.append({'ID': 12, 'type': 'AA', 'lat': 43.917963, 'lon': -73.788635, 'specialID': 3, 'N_min': 20, 'N_max': 50, 'N_emp': 0})
+205c195
+< exp_workplaces.append({'ID': 15, 'type': 'H', 'lat': 40.894725, 'lon': -73.781787, 'specialID': 1})
+---
+> exp_workplaces.append({'ID': 13, 'type': 'H', 'lat': 40.894725, 'lon': -73.781787, 'specialID': 1})
+207c197
+< specIDs = list(range(8,16))
+---
+> specIDs = list(range(6,14))
+224,225c214
+< fleisureOut = 'test_data/core_poi_NROut_LeisureTrimmed.csv'
+< fleisureIn = 'test_data/core_poi_NRIn_LeisureTrimmed.csv'
+---
+> fleisure = 'test_data/core_poi_NR_LeisureTrimmed.csv'
+227,240c216,219
+< exp_leisure = [ {'ID': 1, 'name': 'Jo-Ann Fabric and Craft Stores', 'type': 'Sporting Goods, Hobby, and Musical Instrument Stores' , 'lat': 40.991466, 'lon': -73.823074},
+< 				{'ID': 2, 'name': 'Korean BBQ Grill', 'type': 'Restaurants and Other Eating Places' , 'lat': 40.908895, 'lon': -73.781193}]
+< leisure = apb.LeisureLocations(fleisureIn)
+< ut.test_pass(compare_leisure_dicts(exp_leisure, leisure.leisure_locations), 'Loading leisure locations')
+< 
+< exp_leisure2 = [ {'ID': 1, 'name': 'Jo-Ann Fabric and Craft Stores', 'type': 'Sporting Goods, Hobby, and Musical Instrument Stores' , 'lat': 40.991466, 'lon': -73.823074},
+< 				{'ID': 2, 'name': 'Korean BBQ Grill', 'type': 'Restaurants and Other Eating Places' , 'lat': 40.908895, 'lon': -73.781193},
+< 				{'ID': 3, 'name': 'Afra Beauty Supply', 'type': 'Health and Personal Care Stores' , 'lat': 40.876484, 'lon': -73.849026},
+< 				{'ID': 4, 'name': 'StilltheOne Distillery' , 'type': 'Beverage Manufacturing', 'lat': 40.997632, 'lon': -73.660723},
+< 				{'ID': 5, 'name': 'BCBGeneration', 'type': 'Clothing Stores', 'lat': 40.928535, 'lon': -73.855649},
+< 				{'ID': 6, 'name': 'Gus & Nicks Auto Body', 'type': 'Automotive Repair and Maintenance', 'lat': 40.935259, 'lon': -73.88327}]
+< 
+< leisure2 = apb.LeisureLocations(fleisureIn, fleisureOut, True)
+< ut.test_pass(compare_leisure_dicts(exp_leisure2, leisure2.leisure_locations), 'Loading mixed leisure locations')
+---
+> exp_leisure = [ {'ID': 1, 'name': 'Korean BBQ Grill', 'type': 'Restaurants and Other Eating Places' , 'lat': 40.908895, 'lon': -73.781193},
+> 				{'ID': 2, 'name': 'Viva Ranch Fruit Market' , 'type': 'Grocery Stores', 'lat': 40.909606, 'lon': -73.780965},
+> 				{'ID': 3, 'name': 'Bella Glo Beauty Spa', 'type': 'Personal Care Services', 'lat': 40.921269, 'lon': -73.788062},
+> 				{'ID': 4, 'name': 'Stephenson Park', 'type': '"Museums Historical Sites, and Similar Institutions"', 'lat': 40.918642, 'lon': -73.773797}]
+241a221,222
+> leisure = apb.LeisureLocations(fleisure)
+> ut.test_pass(compare_leisure_dicts(exp_leisure, leisure.leisure_locations), 'Loading leisure locations')
+252d232
+< lfname2 = 'test_data/leisure_mix.txt'
+259c239
+< wtags = ['ID', 'lat', 'lon', 'occupation', 'specialID']
+---
+> wtags = ['ID', 'lat', 'lon', 'type', 'specialID']
+282c262
+< ltags = ['ID', 'lat', 'lon', 'in/out']
+---
+> ltags = ['ID', 'lat', 'lon']
+287,291d266
+< # Leisure locations - two files
+< ltags = ['ID', 'lat', 'lon', 'in/out']
+< with open(lfname2, 'w') as fout:
+< 	fout.write(repr(leisure2))
+< ut.test_pass(check_saving(leisure.leisure_locations, ltags, lfname), 'Writing leisure data to file')
